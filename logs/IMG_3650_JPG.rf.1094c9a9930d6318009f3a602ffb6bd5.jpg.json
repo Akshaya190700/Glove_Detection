@@ -1,0 +1,15 @@
+{
+  "filename": "IMG_3650_JPG.rf.1094c9a9930d6318009f3a602ffb6bd5.jpg",
+  "detections": [
+    {
+      "label": "no_glove",
+      "confidence": 0.9620211720466614,
+      "bbox": [
+        68,
+        60,
+        634,
+        609
+      ]
+    }
+  ]
+}
